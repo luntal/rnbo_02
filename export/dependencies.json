@@ -1,0 +1,46 @@
+[
+  {
+    "id": "g0",
+    "file": "media/G0.wav"
+  },
+  {
+    "id": "a0",
+    "file": "media/A0.wav"
+  },
+  {
+    "id": "b0",
+    "file": "media/B0.wav"
+  },
+  {
+    "id": "c2",
+    "file": "media/C2.wav"
+  },
+  {
+    "id": "b1",
+    "file": "media/B1.wav"
+  },
+  {
+    "id": "a1",
+    "file": "media/A1.wav"
+  },
+  {
+    "id": "g1",
+    "file": "media/G1.wav"
+  },
+  {
+    "id": "f1",
+    "file": "media/F1.wav"
+  },
+  {
+    "id": "e1",
+    "file": "media/E1.wav"
+  },
+  {
+    "id": "d1",
+    "file": "media/D1.wav"
+  },
+  {
+    "id": "c1",
+    "file": "media/C1.wav"
+  }
+]
